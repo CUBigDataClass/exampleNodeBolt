@@ -1,8 +1,52 @@
+{"percent":[1],"classifcation":["beer"],"word":["شيء"]}
+
+{"percent":[1],"classifcation":["wine"],"word":["wine"]}
+
+{"percent":[0.5],"classifcation":["wine"],"word":["not"]}
+
+{"percent":[0.5],"classifcation":["beer"],"word":["يوجد"]}
+
+{"percent":[0.33333334],"classifcation":["wine"],"word":["that"]}
+
+{"percent":[0.25],"classifcation":["wine"],"word":["talking"]}
+
+{"percent":[0.33333334],"classifcation":["beer"],"word":["في"]}
+
+{"percent":[0.2],"classifcation":["wine"],"word":["bout"]}
+
+{"percent":[0.16666667],"classifcation":["wine"],"word":["@_lilmandowork"]}
+
+{"percent":[0.25],"classifcation":["beer"],"word":["ولا"]}
+
+{"percent":[0.14285715],"classifcation":["wine"],"word":["no"]}
+
+{"percent":[0.125],"classifcation":["wine"],"word":["I'm"]}
+
+{"percent":[0.11111111],"classifcation":["wine"],"word":["on"]}
+
+{"percent":[0.1],"classifcation":["wine"],"word":["Saturday...down"]}
+
+{"percent":[0.2],"classifcation":["beer"],"word":["بيتنا"]}
+
+{"percent":[0.33333334],"classifcation":["beer"],"word":["يوجد"]}
+
+{"percent":[0.2857143],"classifcation":["beer"],"word":["في"]}
+
+{"percent":[0.125],"classifcation":["beer"],"word":["بيتكم"]}
+
+{"percent":[0.11111111],"classifcation":["beer"],"word":["RT"]}
+
+{"percent":[0.1],"classifcation":["beer"],"word":["\"̮"]}
+
+{"percent":[0.13043478],"classifcation":["beer"],"word":["في"]}
+
 {"text":["RT @WSETglobal: The golden rules to becoming a wine collector and investor - \"Get some education\" #WSET (via @daily_express) http://t.co/uH\u2026"],"classifcation":["wine"],"tweetID":["459024088624021504"],"coordinates":[[50.503887,4.469936]]}
 
 {"text":["Today has already been a long day! I say forget #wcw I say let's bring back #winewednesday ! What's your favorite wine? #QuestionOfTheDay"],"classifcation":["wine"],"tweetID":["459024099138756609"],"coordinates":[[41.49932,-81.6943605]]}
 
 {"text":["Excuse me whilst upgrade my evening bev from wine to gin and pretend that St George's day is a thing"],"classifcation":["wine"],"tweetID":["459024092004622336"],"coordinates":[[51.508515,-0.1254872]]}
+
+{"percent":[0.125],"classifcation":["wine"],"word":["wine"]}
 
 {"text":["ANNIVERSARY 11th VIKING PHC RANCAEKEK *bday**gift*&lt;=-P*beer*\\=D/B-) http://t.co/oob5uX1kvd"],"classifcation":["beer"],"tweetID":["459024091094077440"],"coordinates":[[-6.9733597,107.775465]]}
 
