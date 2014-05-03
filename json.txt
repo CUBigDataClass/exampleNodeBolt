@@ -1,0 +1,25 @@
+{"text":["RT @WSETglobal: The golden rules to becoming a wine collector and investor - \"Get some education\" #WSET (via @daily_express) http://t.co/uH\u2026"],"classifcation":["wine"],"tweetID":["459024088624021504"],"coordinates":[[50.503887,4.469936]]}
+
+{"text":["Today has already been a long day! I say forget #wcw I say let's bring back #winewednesday ! What's your favorite wine? #QuestionOfTheDay"],"classifcation":["wine"],"tweetID":["459024099138756609"],"coordinates":[[41.49932,-81.6943605]]}
+
+{"text":["Excuse me whilst upgrade my evening bev from wine to gin and pretend that St George's day is a thing"],"classifcation":["wine"],"tweetID":["459024092004622336"],"coordinates":[[51.508515,-0.1254872]]}
+
+{"text":["ANNIVERSARY 11th VIKING PHC RANCAEKEK *bday**gift*&lt;=-P*beer*\\=D/B-) http://t.co/oob5uX1kvd"],"classifcation":["beer"],"tweetID":["459024091094077440"],"coordinates":[[-6.9733597,107.775465]]}
+
+{"text":["RT @ZackFiscus: Future 2014 Beer Cup Champion."],"classifcation":["beer"],"tweetID":["459024095951069184"],"coordinates":[[32.6098566,-85.48078249999999]]}
+
+{"text":["Check out our Lounge/Bar menu! $6 cocktails, 1/2 off select beer &amp; wine and delicious bites like these Biras Nachos! http://t.co/9t7QqGQ9pd"],"classifcation":["beer"],"tweetID":["459024100413800448"],"coordinates":[[18.420695,-64.639968]]}
+
+{"text":["Only thing that could make today better is an ice cold beer"],"classifcation":["beer"],"tweetID":["459024116687699968"],"coordinates":[[-88.47345677,43.78433231]]}
+
+{"text":["The Chianti Wine Region\nAn Itinerary of Ancient Villages &amp; fine Wine\nhttp://t.co/kLqOwEq81x http://t.co/EvDJKMvdxa"],"classifcation":["wine"],"tweetID":["459024098937409538"],"coordinates":[[40.7056308,-73.9780035]]}
+
+{"text":["@T_Stew3 im drinking whatever you drink, oh besides beer."],"classifcation":["beer"],"tweetID":["459024099990577152"],"coordinates":[[32.5359683,-85.8932923]]}
+
+{"text":["RT @TheOtherHepburn: Why not make a little $ by selling some stuff? Apply to be a vendor at @Schlafly Pork Shop! Beer! Shopping! PORK! http\u2026"],"classifcation":["beer"],"tweetID":["459024116658356225"],"coordinates":[[38.2526647,-85.7584557]]}
+
+{"text":["With Titov and Patricia (FULL) at Beer Garden SCBD \u2014 https://t.co/nzHgqft7bQ"],"classifcation":["beer"],"tweetID":["459024121209159680"],"coordinates":[[106.81014,-6.23186]]}
+
+{"text":["#3: Nostalgia Electrics KRS2100 Kegorator Beer Keg Fridge, Black: Nostalgia Electrics KRS2100 Kegorator Beer K... http://t.co/NV5sqMSUXa"],"classifcation":["beer"],"tweetID":["459024100719996928"],"coordinates":[[33.4332733,-86.72247039999999]]}
+
+{"text":["Got them turnt off their first root beer at Midway http://t.co/6WF8zFVr3Z"],"classifcation":["beer"],"tweetID":["459024106017783808"],"coordinates":[[38.4192496,-82.44515400000002]]}
