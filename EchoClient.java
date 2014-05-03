@@ -18,7 +18,7 @@ public class EchoClient {
 
     String garbage = readFile("json.txt", StandardCharsets.UTF_8);
         //String hostName = "54.187.141.69";
-        String hostName = "localhost";
+        String hostName = "54.187.141.69";
         int portNumber = 1337;
         
         try {
